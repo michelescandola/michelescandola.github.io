@@ -1,5 +1,3 @@
-# michelescandola.github.io
-
 * ORCID: [0000-0003-0853-8975](https://orcid.org/0000-0003-0853-8975)
 * ResearcherID: [D-8107-2013](https://publons.com/researcher/D-8107-2013/)
 * [ResearchGate](https://www.researchgate.net/profile/Michele_Scandola)
