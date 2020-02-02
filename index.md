@@ -4,10 +4,11 @@
 * ResearcherID: [D-8107-2013](https://publons.com/researcher/D-8107-2013/)
 * [ResearchGate](https://www.researchgate.net/profile/Michele_Scandola)
 * [Google Scholar](https://scholar.google.com/citations?user=mRc0hxsAAAAJ&hl=it)
+* [Open Science Framework](https://osf.io/4kcn2/)
 
 ## Short Bio
 
-I am a researcher in the neuroscience field, interested in body, action and space representation at the [NPSY-Lab.VR](http://sites.hss.univr.it/npsy-labvr/).
+I am a researcher in the neuroscience field, interested in body, action and space representations at the [NPSY-Lab.VR](http://sites.hss.univr.it/npsy-labvr/).
 In particular, my research work is focused on patients with a spinal cord lesion,
 people that are experiencing in their everyday life a body-brain disconnection from both the sensorial and 
 motor functionality.
