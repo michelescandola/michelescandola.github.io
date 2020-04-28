@@ -1,8 +1,12 @@
-* ORCID: [0000-0003-0853-8975](https://orcid.org/0000-0003-0853-8975)
-* ResearcherID: [D-8107-2013](https://publons.com/researcher/D-8107-2013/)
-* [ResearchGate](https://www.researchgate.net/profile/Michele_Scandola)
-* [Google Scholar](https://scholar.google.com/citations?user=mRc0hxsAAAAJ&hl=it)
-* [Open Science Framework](https://osf.io/4kcn2/)
+![logo](Logo_combinato3.png)
+
+
+* ORCID: [0000-0003-0853-8975](https://orcid.org/0000-0003-0853-8975)            
+* ResearcherID: [D-8107-2013](https://publons.com/researcher/D-8107-2013/)         
+* [ResearchGate](https://www.researchgate.net/profile/Michele_Scandola)             
+* [Google Scholar](https://scholar.google.com/citations?user=mRc0hxsAAAAJ&hl=it)   
+* [Open Science Framework](https://osf.io/4kcn2/)                                  
+
 
 ## Short Bio
 
@@ -22,4 +26,4 @@ I am an expert in Bayesian Statistics. I coordinate the [BASIC-NPSY Research Gro
 
 Here some my presentations:
 
-- [Sample Size estimation](https://michelescandola.github.io/samplesize_presentation.html)
+- [Sample Size estimation](https://michelescandola.github.io/presentations/samplesize_presentation.html)
