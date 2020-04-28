@@ -17,3 +17,9 @@ I co-coordinate, altogether with prof. Valentina Moro, the ["International Resea
 I teach at the University of Verona "Neuroscience of Learning" and the laboratory "Body and disability".
 
 I am an expert in Bayesian Statistics. I coordinate the [BASIC-NPSY Research Group](http://sites.hss.univr.it/npsy-labvr/basic-npsy-research-group/) and I have organized two summer schools concerning Bayesian statistics [BayesHSC](http://sites.hss.univr.it/bayeshsc/).
+
+## Presentations
+
+Here some my presentations:
+
+- [Sample Size estimation](michelescandola.github.io/samplesize_presentation.html)
