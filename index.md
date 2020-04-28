@@ -26,4 +26,4 @@ I am an expert in Bayesian Statistics. I coordinate the [BASIC-NPSY Research Gro
 
 Here some my presentations:
 
-- [Sample Size estimation](https://michelescandola.github.io/presentations/samplesize_presentation.html)
+- [Sample Size estimation](https://michelescandola.github.io/presentations/samplesize_presentation.html) - [Rmarkdown code](https://michelescandola.github.io/presentations/samplesize_presentation.Rmd)
