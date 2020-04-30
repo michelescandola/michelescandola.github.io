@@ -17,6 +17,12 @@ library(pwr)
 library(TrialSize)
 ```
 
+## $243^{th}$ Gauss' Birthday!
+
+<div class="centered">
+<img src="gauss.png" width="900">
+</div>
+
 ## Eh??
 
 ![](poster image.jpg)
