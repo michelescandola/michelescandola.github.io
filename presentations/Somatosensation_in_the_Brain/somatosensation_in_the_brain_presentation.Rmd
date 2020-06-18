@@ -121,8 +121,8 @@ Somatosensory processing ontributes to functions that are:
 
 Reviewing the Literature, the Authors observed that:
 
-1- there are observation concerned structures that they had omitted in the first model
-2- these structures are all highly interconnected
+1. there are observation concerned structures that they had omitted in the first model
+2. these structures are all highly interconnected
 
 This suggests either one comprehensive or several overlapping networks.
 
@@ -174,7 +174,7 @@ in addition to posterior parietal areas, the frontal lobes also play a role in h
 
 - monkeys: damaged SII impairments in tactile discrimination learning
 - fMRI humans: anterior and superior parital cortex, SMA, dorsolateral and anterior cingulate cortex
-- multimodal working memory (visuo-tactile amtrices): posterior parietal, dorsolateral prefrontal, anterior cingulate networks
+- multimodal working memory (visuo-tactile matrices): posterior parietal, dorsolateral prefrontal, anterior cingulate networks
 
 ## 1b. Tactile Memory 2/4 | Long-term tactile memory
 
@@ -188,6 +188,7 @@ the superior parietal lobe including the intraparietal sulcus.
 Imaging tactile features of an object accelerate reaction times to tactile but not auditory stimuli
 
 Tactile imagery activation in:
+
 - SI
 - retrosplenial cortices
 - precuneus
@@ -326,9 +327,7 @@ movements. Trajectories are different [@Karl2013]
 
 ## Conclusions and questions
 
-This model is an interactive, distributed framework.
-
-It shows functional specificity, but somatosensory processing in its broadest sense involves a network of cortical and subcortical areas that shows a more flexible organization than the first model previously assumed.
+This model is an _interactive_, _distributed framework_. It shows _functional specificity_, but somatosensory processing involves a _network of cortical and subcortical areas_ and a _flexible organization_.
 
 ***Questions***
 
@@ -338,5 +337,22 @@ It shows functional specificity, but somatosensory processing in its broadest se
 only, and we need to look into the inter-action between these systems.
 
 3. Time course of the activation of the different networks.
+  
+4. (my question) Time to think to a generalized multimodal network for perception?
+
+
+## Thank you for your attention!
+
+<div class="centered">
+<img src="imgs/end.jpeg" width="900">
+</div>
 
 ## References
+
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):after {
+  content: '';
+}
+</style>
+
